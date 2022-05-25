@@ -72,3 +72,5 @@ Web 前端负责界面渲染，将后端传来的成绩信息和实验信息等�
 ## 演示视频
 
 https://github.com/fight-code/reposname/issues/1#issue-1248066015
+
+https://user-images.githubusercontent.com/53158212/170262424-3c211746-a2bf-440e-973a-5e33e4386a60.mp4
