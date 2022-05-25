@@ -71,7 +71,7 @@
 ![img.png](pics/5-1.png)
 
 ### 方法二：本地部署（比较复杂，不推荐）
-[教程](platform-code/worker/README.md)
+请参考第四个模块的readme.md[戳我](platform-code/worker/README.md)
 
 ## 基本原理
 
