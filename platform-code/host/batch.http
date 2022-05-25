@@ -1,0 +1,80 @@
+###
+PUT {{root}}/user-code/8
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+token:{{token1}}
+
+--WebAppBoundary
+Content-Disposition: form-data; name="code"; filename="pack.zip"
+
+< ./usercode/README.zip
+--WebAppBoundary--
+###
+PUT {{root}}/user-code/8
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+token:{{token2}}
+
+--WebAppBoundary
+Content-Disposition: form-data; name="code"; filename="pack.zip"
+
+< ./usercode/README.zip
+--WebAppBoundary--
+###
+PUT {{root}}/user-code/8
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+token:{{token3}}
+
+--WebAppBoundary
+Content-Disposition: form-data; name="code"; filename="pack.zip"
+
+< ./usercode/README.zip
+--WebAppBoundary--
+###
+PUT {{root}}/user-code/8
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+token:{{token4}}
+
+--WebAppBoundary
+Content-Disposition: form-data; name="code"; filename="pack.zip"
+
+< ./usercode/README.zip
+--WebAppBoundary--
+###
+PUT {{root}}/user-code/8
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+token:{{token5}}
+
+--WebAppBoundary
+Content-Disposition: form-data; name="code"; filename="pack.zip"
+
+< ./usercode/README.zip
+--WebAppBoundary--
+###
+PUT {{root}}/user-code/8
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+token:{{token6}}
+
+--WebAppBoundary
+Content-Disposition: form-data; name="code"; filename="pack.zip"
+
+< ./usercode/README.zip
+--WebAppBoundary--
+###
+PUT {{root}}/user-code/8
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+token:{{token7}}
+
+--WebAppBoundary
+Content-Disposition: form-data; name="code"; filename="pack.zip"
+
+< ./usercode/README.zip
+--WebAppBoundary--
+###
+PUT {{root}}/user-code/8
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+token:{{token8}}
+
+--WebAppBoundary
+Content-Disposition: form-data; name="code"; filename="pack.zip"
+
+< ./usercode/README.zip
+--WebAppBoundary--

@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "score.file-root-path",
+      "type": "java.lang.String",
+      "description": "Description for score.file-root-path."
+    },
+    {
+      "name": "score.worker-key",
+      "type": "java.lang.String",
+      "description": "Description for score.worker-key."
+    },
+    {
+      "name": "score.judging-queue-topic",
+      "type": "java.lang.String",
+      "description": "Description for score.judging-queue-topic."
+    }
+  ] }

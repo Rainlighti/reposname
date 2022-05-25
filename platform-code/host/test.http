@@ -1,0 +1,60 @@
+
+
+
+
+###
+GET http://127.0.0.1:2333/student/export/info
+token:{{token}}
+
+###
+GET http://localhost:2333/judging/last?expId=8
+Accept: application/json
+token:{{token}}
+
+###
+GET http://localhost:2333/dev
+Accept: application/json
+token:{{token}}
+###
+PUT http://localhost:2333/code?expId=8
+Accept: application/json
+token:{{token}}
+###
+GET {{root}}/testk
+###
+PUT {{root}}/judging-code/97
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="code"; filename="8.py"
+
+< ./judge/example.py
+--WebAppBoundary--
+###
+PUT {{root}}/user-code/8
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+token:{{token}}
+
+--WebAppBoundary
+Content-Disposition: form-data; name="code"; filename="pack.zip"
+
+< ./usercode/README.zip
+--WebAppBoundary--
+###
+GET {{root}}/judging-code/8?key=kal-tsit&lastHash=970937ec7f3da22a47f8d30c50f0b188
+###
+GET {{root}}/user-code/1963?key=kal-tsit&lastHash=970937ec7f3da22a47f8d30c50f0b188
+###
+GET http://localhost:2333/judging/last/dynamic-part?expId=8
+token:{{token}}
+
+###
+
+
+
+
+
+
+
+
+
