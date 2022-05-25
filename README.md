@@ -70,7 +70,10 @@
 Web 前端负责界面渲染，将后端传来的成绩信息和实验信息等渲染成 Web 界面，以向学生展示相关的信息。采用 Vue.js 框架进行开发，采用 JavaScript、 HTML、 CSS 作为开发语言。前后端通过 Restful HTTP API 进行通信，前后端分离开发，并共同部署在服务器中。
 
 ## 演示视频
+### 教师上传评测代码
+https://user-images.githubusercontent.com/53158212/170272705-af1c21e0-5438-4b88-b564-e95807698afc.mp4
+### 成绩评测展示
+https://user-images.githubusercontent.com/53158212/170272404-add5686b-31ab-4311-bcd1-fdc9d7a8d84b.mp4
+### 查看导出学生成绩
+https://user-images.githubusercontent.com/53158212/170272954-3ebd3f23-6ef1-4ea5-9b0e-343fe11bbed9.mp4
 
-https://github.com/fight-code/reposname/issues/1#issue-1248066015
-
-https://user-images.githubusercontent.com/53158212/170262424-3c211746-a2bf-440e-973a-5e33e4386a60.mp4
