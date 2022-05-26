@@ -70,6 +70,10 @@
 
 ![img.png](pics/5-1.png)
 
+6、使用账号，密码登录平台查看结果
+
+![img.png](pics/6-1.png)
+
 ### 方法二：本地部署（比较复杂，不推荐）
 请参考第四个模块的readme.md[戳我](platform-code/worker/README.md)
 
