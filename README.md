@@ -82,7 +82,7 @@
 
 评测代码：
 
-`
+```
 import os
 from .score_system import begin_judge, \
     begin_compile, \
@@ -104,7 +104,7 @@ for id in test_point_id_list:
     pass_testpoint(id)
     # reject_testpoint(id)
 end_judge()
-`
+```
 
 ### 上传功能原理
 学生可以通过 SSH 或 Telnet 来远程连接服务器，通过 SFTP 上传自己编写的代码也可以用自己的电脑上通过 VSCode 等代码编辑器来编写代码，然后利用 VSCode Remote 功能 来连接服务器进行远程代码编译和调试，这样可以省去学生学习使用 SSH 和 SFTP 的学习成本。
