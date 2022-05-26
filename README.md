@@ -119,4 +119,14 @@ https://user-images.githubusercontent.com/53158212/170272705-af1c21e0-5438-4b88-
 https://user-images.githubusercontent.com/53158212/170272404-add5686b-31ab-4311-bcd1-fdc9d7a8d84b.mp4
 ### 查看导出学生成绩
 https://user-images.githubusercontent.com/53158212/170272954-3ebd3f23-6ef1-4ea5-9b0e-343fe11bbed9.mp4
+### 实验编写上传
+https://user-images.githubusercontent.com/53158212/170402560-790f3718-2989-44e9-8f78-832e7257b8a7.mp4
+
+https://user-images.githubusercontent.com/53158212/170402569-92c95f8a-182b-438e-9a57-1846243afe08.mp4
+### 分布式评测演示
+https://user-images.githubusercontent.com/53158212/170402842-55ccc553-dc2a-4eae-9a32-5eec7785e042.mp4
+
+https://user-images.githubusercontent.com/53158212/170402892-47a121c2-e2ac-4ff2-b5b8-b1d0ee9ed292.mp4
+
+https://user-images.githubusercontent.com/53158212/170402925-8fda3460-6f2d-4afa-9a39-2da10ca92037.mp4
 
